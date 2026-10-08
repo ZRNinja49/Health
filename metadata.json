@@ -1,0 +1,10 @@
+{
+  "name": "GramSeva Telehealth & Rural Clinic Guide",
+  "description": "AI-powered diagnostic symptom checker, triage assistant, and rural community clinic finder with low-bandwidth mode and emergency guidance.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
